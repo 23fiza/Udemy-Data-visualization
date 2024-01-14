@@ -10,6 +10,13 @@ Key Performance Indicators:-
 Total review, Total Subscribers, Average price, Total Revenue, Total free courses, Total paid courses.
 
 Average revenue per user:
-
 Revenue per use category describe the percentage of user attended by udemy. To get this i created dax formula called Average revenue per user (Dax: Divided Total revenue and Total number of subscribers)
+
 Course popularity by price:
+Created dax formula to get course popularity by dividing total number of subscriber.
+
+Total Subscribers by year
+
+Sum of reviews by subject
+
+Total lecture by subject
